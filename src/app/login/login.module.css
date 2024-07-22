@@ -1,0 +1,16 @@
+.loginManu {
+    display: flex;
+}
+
+.loginManu li {
+    margin-left: 25px;
+    list-style-type: none;
+}
+
+.loginManu a {
+    text-decoration: none;
+}
+
+.loginManu h4 {
+    margin: 0;
+}
